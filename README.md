@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sophiemarielueck
+- 👀 I’m interested in SAP Cloud Development in general, regardless whether it's concerning UI development, backend, integration, ...
+- 🌱 I’m currently learning how to cook authentic asian food (off topic)
+- 💞️ I’m looking to collaborate on digitalization 
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/sophie-marie-l%C3%BCck-23b1791b8/)
